@@ -1,5 +1,32 @@
-# 💫 About Me:
-<br>I’m currently working on a student marks and rank analysis web application using the MERN stack.<br>I’m looking to collaborate on full-stack web development and machine learning projects.<br>I’m looking for help with designing scalable backend systems and deployment strategies.<br>I’m currently learning cloud computing (Microsoft Azure), TypeScript, and advanced system design.<br>Ask me about React, Firebase, REST APIs, or building ML-powered web applications.<br>I’ve solved over 200 problems on LeetCode and enjoy building clean, user-focused applications.
+# 💫 Hi 👋, I'm Vishal Ukade  
+**A passionate Computer Engineering Student | Full-Stack Developer | Cloud Enthusiast from Maharashtra, India**
+
+✉️ Email Me 👉 **vishalukade5@gmail.com** — For Collaboration, Projects, or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Student Marks and Rank Analysis (MERN Stack) and Personal Cloud Storage app  
+- 🌱 **I’m currently learning:** Advanced Machine Learning, Cloud Computing (Azure Fundamentals)  
+- 👯 **I’m looking to collaborate on:** Full-stack web apps, cloud-based projects, and AI/ML initiatives  
+- 🤔 **I’m looking for help with:** Exploring more real-world project ideas and advanced cloud certifications  
+- 💬 **Ask me about:** Full-stack development, Machine Learning, Cloud Platforms  
+- 📫 **How to reach me:** vishalukade5@gmail.com  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** I’ve solved 200+ problems on LeetCode and love coding challenges!
+
+## 🔗 I am a Student. 😊😊
+
+Stay updated with my latest projects and tutorials by connecting with me on LinkedIn, GitHub, and visiting my portfolio.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal%20Ukade-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-u-23915724b)  
+[![GitHub](https://img.shields.io/badge/GitHub-vishal--56-black?logo=github&logoColor=white)](https://github.com/vishal-56)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-vishalportfoliov.netlify.app-lightgrey)](https://vishalportfoliov.netlify.app)  
+
+[![](https://visitcount.itsvg.in/api?id=vishalukade5&icon=1&color=4)](https://visitcount.itsvg.in)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 ## 🌐 Socials:
@@ -18,8 +45,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vishal-56&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vishal-56&icon=2&color=1)](https://visitcount.itsvg.in)
