@@ -16,7 +16,9 @@
 
 Stay updated with my latest projects and tutorials by connecting with me on LinkedIn, GitHub, and visiting my portfolio.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal%20Ukade-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-u-23915724b)||[![GitHub](https://img.shields.io/badge/GitHub-vishal--56-black?logo=github&logoColor=white)](https://github.com/vishal-56)||[![Portfolio](https://img.shields.io/badge/Portfolio-vishalportfoliov.netlify.app-lightgrey)](https://vishalportfoliov.netlify.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal%20Ukade-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-u-23915724b)&nbsp;&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-vishal--56-black?logo=github&logoColor=white)](https://github.com/vishal-56)&nbsp;&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-vishalportfoliov.netlify.app-lightgrey)](https://vishalportfoliov.netlify.app)  
 
 [![](https://visitcount.itsvg.in/api?id=vishalukade5&icon=1&color=4)](https://visitcount.itsvg.in)
 
