@@ -10,7 +10,7 @@
 - 💬 **Ask me about:** Full-stack development, Machine Learning, Cloud Platforms  
 - 📫 **How to reach me:** vishalukade5@gmail.com  
 - 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** I’ve solved 200+ problems on LeetCode and love coding challenges!
+- ⚡ **Fun fact:** I’ve solved 400+ problems on LeetCode and love coding challenges!
 
 ## 🔗 I am a Student. 😊😊
 
